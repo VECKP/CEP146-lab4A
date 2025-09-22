@@ -24,9 +24,4 @@
 -  **plate and serve** 
 
 
-# for headings
-**text** for bold
-*text* for italic
-- for bullet points
-1. for numbered lists
-[text](url) for links
+ 
