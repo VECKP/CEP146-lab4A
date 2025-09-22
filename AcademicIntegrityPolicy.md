@@ -30,7 +30,7 @@ Misrepresenting another student’s academic work, withholding or forging person
 
 Taking a test, an examination or any other assessment on behalf of another individual in a physical or virtual setting, with their knowledge and consent. 
 
-##Official transcript
+## Official transcript
 
 A detailed record of a student’s academic history carries an authorized signature and can be requested for a fee.
 
