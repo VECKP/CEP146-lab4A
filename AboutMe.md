@@ -9,6 +9,19 @@
 - skateboarding
 
 
+# Fettecine Alfredo
+
+## you will need cream, parmasean, garlic, fettecine pasta, butter, oregano, flower, salt, and pepper.
+
+- heat water in a pot till boiling, Make sure to **salt the water**
+- place pasta in the pot and **cook for 6 to 8 minutes**
+- mince your garlic till it is a **fine paste**
+- using another pan, melt your butter at no more than 350°c 
+- place your minced garlic along with your herbs (oregano and pepper) in the pan
+- saute ingrediants until slightly brown
+- place cream  and a pinch of flower in the same pan and **simmer till thinkened**
+-  add your Fettecine Pasta to the pan and stir
+-  **plate and serve** 
 
 
 # for headings
